@@ -27,5 +27,4 @@ print(persegi)
 print("Keliling =", persegi.keliling(), "cm")
 
 # Menampilkan luas
-print("Luas =", persegi.luas(), "cm²"
-)
+print("Luas =", persegi.luas(), "cm²")
